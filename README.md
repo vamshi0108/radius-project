@@ -13,9 +13,9 @@ Git should be installed in your local system
 ```
 1. open https://github.com/vamshi0108/radius-project
 2. Fork the repository to your repository.
-3. open local VS code and do **git clone https://github.com/{GIT_ID}/radius-project.git**
-4. **npm install ejs express path**
-5. Now start the server: **npm run start**
+3. open local VS code and do git clone https://github.com/{GIT_ID}/radius-project.git
+4. npm install ejs express path
+5. Now start the server: npm run start
 ```
 
 ## npm Packages Used
