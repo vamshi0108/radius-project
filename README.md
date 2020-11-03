@@ -1,4 +1,4 @@
-# Notes App
+# Demo project
 
 Demo project for Radius
 
@@ -11,16 +11,11 @@ Git should be installed in your local system
 ### Installing
 
 ```
-git remote add coworker git://vamshi0108/notes-app.git
-git fetch coworker
-git checkout --track coworker/notes
-```
-
-This will setup a local branch notes, tracking the remote branch coworker/notes. You can easily pull them if any changes made:
-
-```
-git checkout notes
-git pull
+1. open https://github.com/vamshi0108/radius-project
+2. Fork the repository to your repository.
+3. open local VS code and do **git clone https://github.com/{GIT_ID}/radius-project.git**
+4. **npm install ejs express path**
+5. Now start the server: **npm run start**
 ```
 
 ## npm Packages Used
@@ -29,8 +24,8 @@ git pull
 express
 path
 fs
-nodemon
-env-cmd
+nodemon [dev]
+env-cmd [dev]
 ```
 
 ## Deployment
