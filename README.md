@@ -38,11 +38,13 @@ env-cmd [dev]
 ### Important Notes
 
 ```
-The email which you provided to me for reference is mentioned in below specified path:
+1. The email which you provided to me for reference is mentioned in below specified path:
 radius-app\public\views\email.html
 
-The parsed output is stored in below path:
+2. The parsed output is stored in below path:
 radius-app\src\output\output.json
+
+3. For testing purpose, you can change the data in email.html and run the server to check the updated data in output.json
 ```
 
 ## Built With
