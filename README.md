@@ -28,7 +28,9 @@ nodemon [dev]
 env-cmd [dev]
 ```
 
-## Deployment
+## Live Deployment
+
+URL: [https://radius-demo.herokuapp.com/](https://radius-demo.herokuapp.com/)
 
 [Heroku](https://dashboard.heroku.com/apps) for live deployment.
 
