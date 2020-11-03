@@ -16,7 +16,8 @@ Git should be installed in your local system
 3. open local VS code and do git clone https://github.com/{GIT_ID}/radius-project.git
 4. npm install ejs express path
 5. Now start the server: npm run start
-6. This project is deployed in heroku as well, you can simply use that for testing. Check below for URL.
+6. Now run localhost:3000 in the browser
+7. This project is deployed in heroku as well, you can simply use that for testing. Check below for URL.
 ```
 
 ## Live Deployment
@@ -32,6 +33,16 @@ path
 fs
 nodemon [dev]
 env-cmd [dev]
+```
+
+### Important Notes
+
+```
+The email which you provided to me for reference is mentioned in below specified path:
+radius-app\public\views\email.html
+
+The parsed output is stored in below path:
+radius-app\src\output\output.json
 ```
 
 ## Built With
